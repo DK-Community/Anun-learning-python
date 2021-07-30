@@ -1,6 +1,5 @@
 password = input("What is your password?")
 if password == "1132":
-    print("Hello Dk!")                      
-
+    print("Welcome dk")                     
 else:
-    print("Wrong password try again")
+    print("incorrect password")
